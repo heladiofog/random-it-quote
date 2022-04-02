@@ -1,0 +1,29 @@
+{
+  "name": "random-it-quote",
+  "version": "1.0.0",
+  "description": "Get a random IT Quote each time.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "npm",
+    "js"
+  ],
+  "author": "Heladio Arteaga Franco <heladiofog@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-it-quote": "bin/global.js"
+  },
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heladiofog/random-it-quote.git"
+  },
+  "bugs": {
+    "url": "https://github.com/heladiofog/random-it-quote/issues"
+  },
+  "homepage": "https://github.com/heladiofog/random-it-quote#readme"
+}
